@@ -1,5 +1,5 @@
 {
-  "name": "haoqian blast 666",
-  "description": "A puzzle game where you place blocks on an 8x8 grid to clear lines and score points.",
-  "requestFramePermissions": []
+  "name": "haoqian sniper 666",
+  "description": "A 3D FPS sniper game with unlimited ammo and resources. Buy guns and take down targets!",
+  "requestFramePermissions": ["pointerLock"]
 }
